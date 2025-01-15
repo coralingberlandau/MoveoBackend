@@ -2,11 +2,11 @@
 
 
 ### 🔗 **Backend URL - Render **:  
-✨ [Access the backend here!](https://lista-backend-n3la.onrender.com) ✨
+✨ [Access the backend here!](https://moveobackend.onrender.com/) ✨
 
 
 ### 🌐 **Frontend URL - Netlify **:  
-✨ [Access the frontend here!](https://lista-project.netlify.app/Login) ✨
+✨ [Access the frontend here!](https://moveo-coral.netlify.app/) ✨
 
 
 ---
